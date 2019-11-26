@@ -4,6 +4,14 @@
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
+	"assets": {
+	    "client": [
+	      {
+		"file": "app.py",
+		"target": "~/"
+	      }
+	    ],
+	},
     "steps": [
       {
         "title": "Step 1",
